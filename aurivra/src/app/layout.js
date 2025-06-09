@@ -38,6 +38,9 @@ export const metadata = {
   icons: {
     icon: '/logo1.png',
   },
+  other: {
+    'google-site-verification': 'google1d731b363b38fc43'
+  },
 };
 
 
