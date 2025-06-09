@@ -39,7 +39,7 @@ export const metadata = {
     icon: '/logo1.png',
   },
   other: {
-    'google-site-verification': 'google1d731b363b38fc43'
+    'google-site-verification': 'O4pkhmAcaR_PUIaL1TR6CfJ5Sd_Vi8MNfLFWfqCJPbg'
   },
 };
 
