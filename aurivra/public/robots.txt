@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://aurivra-solutions.vercel.app
+
+# Sitemaps
+Sitemap: https://aurivra-solutions.vercel.app/sitemap.xml
