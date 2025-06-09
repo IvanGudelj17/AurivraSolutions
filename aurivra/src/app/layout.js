@@ -6,17 +6,17 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  metadataBase: new URL('https://aurivrasolutions.com'),  // << OVO DODAJ
+  metadataBase: new URL('https://aurivra-solutions.vercel.app/'),  // << OVO DODAJ
   title: 'Aurivra Solutions | Web Development & Digital Solutions',
   description: 'Custom web development, SEO optimization, and digital product design for businesses looking to lead in the digital age.',
   keywords: ['Web Development', 'SEO Optimization', 'Web application', 'Digital Solutions', 'Aurivra Solutions', 'Web Design', 'Custom Applications'],
-  authors: [{ name: 'Ivan Gudelj', url: 'https://aurivrasolutions.com' }],
+  authors: [{ name: 'Ivan Gudelj', url: 'https://aurivra-solutions.vercel.app/' }],
   creator: 'Aurivra Solutions',
   publisher: 'Aurivra Solutions',
   openGraph: {
     title: 'Aurivra Solutions | Web Development & Digital Solutions',
     description: 'Custom web development and SEO-optimized digital products crafted with cutting-edge technologies.',
-    url: 'https://aurivrasolutions.com',
+    url: 'https://aurivra-solutions.vercel.app/',
     siteName: 'Aurivra Solutions',
     images: [
       {
